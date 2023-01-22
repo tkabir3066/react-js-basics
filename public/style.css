@@ -1,0 +1,42 @@
+.heading-style {
+  color: brown;
+  background-color: bisque;
+  text-align: center;
+  padding: 15px;
+}
+
+.large-text {
+  font-size: 3rem;
+}
+
+.card {
+  background-color: coral;
+  width: 390px;
+  box-shadow: 2px 2px 2px grey;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+.titleText {
+  text-align: center;
+  color: rgb(54, 100, 9);
+}
+
+.desText {
+  text-align: justify;
+  background-color: rgb(235, 220, 200);
+  padding: 10px;
+}
+
+.footerText {
+  text-align: center;
+  font-weight: bold;
+}
+
+.icon {
+  font-size: 3rem;
+  color: orangered;
+  margin: 2rem;
+}
