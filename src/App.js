@@ -1,12 +1,13 @@
 import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import HOME from "./components/STATE_LIFTING/HOME.js";
+
+import TOGGLE from "./TOGGLE/TOGGLE.js";
 
 function App() {
   return (
     <div className="container m-4">
-      <HOME />
+      <TOGGLE />
     </div>
   );
 }
