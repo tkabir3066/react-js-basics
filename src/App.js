@@ -1,8 +1,8 @@
 import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-
-import TOGGLE from "./TOGGLE/TOGGLE.js";
+import FAQS from "./FAQS/FAQS";
+import TOGGLE from "./TOGGLE/toglle";
 
 function App() {
   return (
