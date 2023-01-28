@@ -1,7 +1,7 @@
 import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import DataFetch from "./HOOKS_useEffect/DataFetch";
+import DataFetch from "./HOOKS_useEffect/CUSTOM_HOOKS/DataFetch";
 
 function App() {
   return (
