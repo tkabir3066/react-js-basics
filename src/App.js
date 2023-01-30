@@ -1,12 +1,11 @@
 import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import DataFetch from "./HOOKS_useEffect/CUSTOM_HOOKS/DataFetch";
-
+import Users from "./PropTypes/Users";
 function App() {
   return (
     <div className="container m-4">
-      <DataFetch />
+      <Users />
     </div>
   );
 }
